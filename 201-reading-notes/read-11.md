@@ -1,4 +1,5 @@
 #read-11
+
 Images
 We can control the size of an image using the width and height in CSS. this way it will till the browser to leave 
 specific area for the image when it is loading.
@@ -8,6 +9,7 @@ we need first to use display and inline blocks. after that we have to apply the 
 
 use text-align and value center.
 using the margin and set margins to auto.
+
 Bachground-imge:
 this allows us to to place an image behing and html element.
 
